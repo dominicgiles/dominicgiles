@@ -10,7 +10,7 @@
 
 💞️ I am open to collaborations in the fields of computational neuroscience/psychiatry, artificial intelligence, data science, mathematics and medical education.
 
-📫 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/dominic-giles/), [Twitter](https://twitter.com/domgiles), or email dominic.giles.15(at)ucl.ac.uk.
+📫 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/dominic-giles/), [Twitter](https://twitter.com/domgiles), or [email](mailto:dominic.giles.15@ucl.ac.uk).
 
 <!---
 dominicgiles/dominicgiles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
